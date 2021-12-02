@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MrSomFeRGO
 - 👀 I’m interested in web-dev
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning C# and JS
 - 📫 How to reach me DS: MrSomFeRGO#1723
 
 <!---
