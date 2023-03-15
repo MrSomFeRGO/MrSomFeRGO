@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MrSomFeRGO
-- 👀 I’m interested in web-dev
-- 🌱 I’m currently learning C# and JS
+- 👀 I’m interested in mobile and backend.
+- 🌱 I’m currently learning flutter and java.
 - 📫 How to reach me DS: MrSomFeRGO#1723
 
 <!---
