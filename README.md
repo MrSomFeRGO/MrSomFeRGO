@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @MrSomFeRGO
-- 👀 I’m interested in mobile and backend.
-- 🌱 I’m currently learning flutter and java.
-- 📫 How to reach me DS: MrSomFeRGO#1723
+- 👀 I’m interested in backend.
+- 🌱 I’m currently learning php, laravel.
 
 <!---
 MrSomFeRGO/MrSomFeRGO is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
